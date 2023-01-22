@@ -10,8 +10,11 @@ Final projects and datasets from prior courses cannot be used. It is required th
 Project Timeline:
 
 Module 1 (by the end of Week 1): The course instructor will group students into teams of two to three members.
+
 Module 3 (by the end of Week 3): Each team should have a concept for the project and several datasets identified. The team representative will need to submit the "Team Project Status Update Form" to describe the concept for the project and the data that will ultimately support the concept.
+
 Module 5 (by the end of Week 5): The team will submit a status report as well as all materials developed to that point for instructor feedback. For the final submission, this feedback will have to be sufficiently addressed.
+
 Module 7 (by the end of Week 7): Each team should submit the following deliverables for the course project in the final week:
 
     Design Document: One PDF document outlining your system architecture. This should describe the source data, the specifics of your pipeline ETL or ELT, and the output. It will also include “next steps” that outline any shortcomings of your current system and what could be done to improve it. Provide the link to your GitHub repository at the top of the Design Document.
