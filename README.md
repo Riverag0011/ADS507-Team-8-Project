@@ -8,7 +8,7 @@
 <li>balanced_diet: level of balanced diet
 <li>bmi_cat: (low, normal, and high)	
 <li>cancer_level: level of cancer	
-<li>charge_level: level of insurance charges (1: 0- <5k, 2: 5K- <10K, 3: 10K<15K, 4:>15K)
+<li>charge_level: level of insurance charges (1: 0- <5k, 2: 5K- <10K, 3: 10K<15K, 4:>=15K)
 <li>chest_pain: level of chest pain	
 <li>children: patient’s number of child	
 <li>chronic _lung_disease: level of chronic lung disease
