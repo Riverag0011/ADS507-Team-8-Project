@@ -57,6 +57,11 @@ Folders:
     <li>CIBD_Exploratory_MN_by_ipynb.ipynb
     <li>CIDB_EPLORATORY_MN_by_SQL.sql
     <li>CIDB_Visualization_GR.ipynb
+        
+ <p>Currently, we are monitoring our data pipeline manually at critical steps. This includes checking the output of the CSV files after extracting, cleaning, merging, and normalizing processes in Python. We also verify the output of the relational tables to ensure that the database is accurate, and test queries. However, as the pipeline grows more complex, it may become challenging to monitor it manually. To address this, we can incorporate logging and alerts into the Python script and SQL (Grace, 2018). This would allow us to monitor the progress of the pipeline and receive notifications via email in case of any issues. By doing so, we can identify and address issues promptly, minimizing any downtime or data loss.
+
+<p>References<p>
+<p>Grace. (2018, December 15). GCP Checklist 6—Monitoring and Alerting (maintaining reliability). Google Cloud - Community. https://medium.com/google-cloud/gcp-checklist-6-monitoring-and-alerting-maintaining-reliability-5701a8b9e86f
 
 
 
