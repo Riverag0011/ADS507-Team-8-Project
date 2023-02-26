@@ -22,32 +22,32 @@ The README must include the following:
     
 ### Feature description:
 
-*age: patient age		
-*air_polution: level of air pollution	
-*alcohol_use: level of alcohol use	
-*balanced_diet: level of balanced diet	
-*bmi_cat: (low, normal, and high)	
-*cancer_level: level of cancer	
-*charge_level: level of insurance charges (1: 0- <5k, 2: 5K- <10K, 3: 10K<15K, 4:>15K)
-*chest_pain: level of chest pain	
-*children: patient’s number of child	
-chronic _lung_disease: level of chronic lung disease
-clubbing_of_finger_nails: level of clubbing of finger nails
-coughing_of_blood: level of coughing of blood
-dry_cough: level of dry cough	
-dust_allergy: level of dust allergy	
-fatigue: level of fatigue		
-frequent_cold: level of frequent cold	
-gender: (1: male, 2: female)	
-genetic_risk: level of genetic risk	
-occupational_hazards: level of occupational hazards
-region: region of residence	
-shortness_of _breath: level of shortness of breath
-smoker: whether patient is a smoker	
-snoring: level of snoring	
-swallow_difficulty: level of swallow difficulty
-weight_lost: level of weight lost	
-wheezing: level of wheezing	
+<li>age: patient age<li>		
+<li>air_polution: level of air pollution	<li>
+<li>alcohol_use: level of alcohol use<li>	
+<li>balanced_diet: level of balanced diet<li>	
+<li>bmi_cat: (low, normal, and high)<li>	
+<li>cancer_level: level of cancer<li>	
+<li>charge_level: level of insurance charges (1: 0- <5k, 2: 5K- <10K, 3: 10K<15K, 4:>15K)<li>
+<li>chest_pain: level of chest pain<li>	
+<li>children: patient’s number of child	<li>
+<li>chronic _lung_disease: level of chronic lung disease<li>
+<li>clubbing_of_finger_nails: level of clubbing of finger nails<li>
+<li>coughing_of_blood: level of coughing of blood<li>
+<li>dry_cough: level of dry cough<li>	
+<li>dust_allergy: level of dust allergy	<li>
+<li>fatigue: level of fatigue<li>		
+<li>frequent_cold: level of frequent cold<li>	
+<li>gender: (1: male, 2: female)<li>	
+<li>genetic_risk: level of genetic risk	<li>
+<li>occupational_hazards: level of occupational hazards<li>
+<li>region: region of residence	<li>
+<li>shortness_of _breath: level of shortness of breath<li>
+<li>smoker: whether patient is a smoker	<li>
+<li>snoring: level of snoring	<li>
+<li>swallow_difficulty: level of swallow difficulty<li>
+<li>weight_lost: level of weight lost<li>	
+<li>wheezing: level of wheezing	<li>
 
 
 
