@@ -42,8 +42,7 @@ Main Branch:
 <li>README = file containing features, repository map, & Deploy/Monitor
 
 Folders:
-<li>Analysis = folder contains metrics, statistics, and analysis of cancer insurance database.
-    CIBD_Exploratory_MN_by_ipynb.ipynb and CIDB_EPLORATORY_MN_by_SQL.sql files.
+<li>Analysis = folder contains metrics, statistics, and analysis of cancer insurance database: CIBD_Exploratory_MN_by_ipynb.ipynb and CIDB_EPLORATORY_MN_by_SQL.sql files
 <li>CancerInsuranceDatabase = folder contains preliminary work on building the database
 <li>Datasets = folder contains datasets files in CSV format and licenses
 
