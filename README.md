@@ -19,15 +19,15 @@ The README must include the following:
     
 ### Feature description:
 
-age: patient age		
-air_polution: level of air pollution	
-alcohol_use: level of alcohol use	
-balanced_diet: level of balanced diet	
-bmi_cat: (low, normal, and high)	
-cancer_level: level of cancer	
-charge_level: level of insurance charges (1: 0- <5k, 2: 5K- <10K, 3: 10K<15K, 4:>15K)
-chest_pain: level of chest pain	
-children: patient’s number of child	
+>age: patient age		
+>air_polution: level of air pollution	
+>alcohol_use: level of alcohol use	
+>balanced_diet: level of balanced diet	
+>bmi_cat: (low, normal, and high)	
+>cancer_level: level of cancer	
+>charge_level: level of insurance charges (1: 0- <5k, 2: 5K- <10K, 3: 10K<15K, 4:>15K)
+>chest_pain: level of chest pain	
+>children: patient’s number of child	
 chronic _lung_disease: level of chronic lung disease
 clubbing_of_finger_nails: level of clubbing of finger nails
 coughing_of_blood: level of coughing of blood
