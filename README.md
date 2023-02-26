@@ -22,32 +22,32 @@ The README must include the following:
     
 ### Feature description:
 
-<li>age: patient age<li>		
-<li>air_polution: level of air pollution	<li>
-<li>alcohol_use: level of alcohol use<li>	
-<li>balanced_diet: level of balanced diet<li>	
-<li>bmi_cat: (low, normal, and high)<li>	
-<li>cancer_level: level of cancer<li>	
-<li>charge_level: level of insurance charges (1: 0- <5k, 2: 5K- <10K, 3: 10K<15K, 4:>15K)<li>
-<li>chest_pain: level of chest pain<li>	
-<li>children: patient’s number of child	<li>
-<li>chronic _lung_disease: level of chronic lung disease<li>
-<li>clubbing_of_finger_nails: level of clubbing of finger nails<li>
-<li>coughing_of_blood: level of coughing of blood<li>
-<li>dry_cough: level of dry cough<li>	
-<li>dust_allergy: level of dust allergy	<li>
-<li>fatigue: level of fatigue<li>		
-<li>frequent_cold: level of frequent cold<li>	
-<li>gender: (1: male, 2: female)<li>	
-<li>genetic_risk: level of genetic risk	<li>
-<li>occupational_hazards: level of occupational hazards<li>
-<li>region: region of residence	<li>
-<li>shortness_of _breath: level of shortness of breath<li>
-<li>smoker: whether patient is a smoker	<li>
-<li>snoring: level of snoring	<li>
-<li>swallow_difficulty: level of swallow difficulty<li>
-<li>weight_lost: level of weight lost<li>	
-<li>wheezing: level of wheezing	<li>
+<li>age: patient age		
+<li>air_polution: level of air pollution	
+<li>alcohol_use: level of alcohol use	
+<li>balanced_diet: level of balanced diet
+<li>bmi_cat: (low, normal, and high)	
+<li>cancer_level: level of cancer	
+<li>charge_level: level of insurance charges (1: 0- <5k, 2: 5K- <10K, 3: 10K<15K, 4:>15K)
+<li>chest_pain: level of chest pain	
+<li>children: patient’s number of child	
+<li>chronic _lung_disease: level of chronic lung disease
+<li>clubbing_of_finger_nails: level of clubbing of finger nails
+<li>coughing_of_blood: level of coughing of blood
+<li>dry_cough: level of dry cough
+<li>dust_allergy: level of dust allergy	
+<li>fatigue: level of fatigue		
+<li>frequent_cold: level of frequent cold
+<li>gender: (1: male, 2: female)	
+<li>genetic_risk: level of genetic risk
+<li>occupational_hazards: level of occupational hazards
+<li>region: region of residence	
+<li>shortness_of _breath: level of shortness of breath
+<li>smoker: whether patient is a smoker	
+<li>snoring: level of snoring	
+<li>swallow_difficulty: level of swallow difficulty
+<li>weight_lost: level of weight lost
+<li>wheezing: level of wheezing	
 
 
 
@@ -55,16 +55,16 @@ The README must include the following:
 ### Repository Map 
 
 Main Branch:
-(FINAL)_cancer_insurance_database.sql = Final Database sql file
-(FINAL)_cancer_insurance_transformation_UP.ipynb = Jupyter notebook file containing dataset transformation
-(FINAL)_cancer_insurance_update_UP.sql = SQL file containing dataset transformation
-CIDB_Visualization_GR.ipynb = Jupyter notebook file containing visualizations
-README = file containing features, repository map, & Deploy/Monitor
+<li>(FINAL)_cancer_insurance_database.sql = Final Database sql file
+<li>(FINAL)_cancer_insurance_transformation_UP.ipynb = Jupyter notebook file containing dataset transformation
+<li>(FINAL)_cancer_insurance_update_UP.sql = SQL file containing dataset transformation
+<li>CIDB_Visualization_GR.ipynb = Jupyter notebook file containing visualizations
+<li>README = file containing features, repository map, & Deploy/Monitor
 
 Folders:
-Analysis = folder contains metrics, statistics, and analysis of cancer insurance database
-CancerInsuranceDatabase = folder contains preliminary work on building the database
-Datasets = folder contains datasets files in CSV format and licenses
+<li>Analysis = folder contains metrics, statistics, and analysis of cancer insurance database
+<li>CancerInsuranceDatabase = folder contains preliminary work on building the database
+<li>Datasets = folder contains datasets files in CSV format and licenses
 
 
 
@@ -72,11 +72,11 @@ Datasets = folder contains datasets files in CSV format and licenses
 
 ### Deploy and Monitor
 
-Please deploy local sql database manually using the (FINAL)_cancer_insurance_database.sql file. 
-The same with the following output files:
-    CIBD_Exploratory_MN_by_ipynb.ipynb
-    CIDB_EPLORATORY_MN_by_SQL.sql
-    CIDB_Visualization_GR.ipynb
+<p>Please deploy local sql database manually using the (FINAL)_cancer_insurance_database.sql file. 
+<p>The same with the following output files:
+    <li>CIBD_Exploratory_MN_by_ipynb.ipynb
+    <li>CIDB_EPLORATORY_MN_by_SQL.sql
+    <li>CIDB_Visualization_GR.ipynb
 
 
 
