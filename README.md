@@ -15,10 +15,11 @@ The README must include the following:
     How to monitor your pipeline.
     
     
-    <ul>
-<li><p>Bird</p></li>
-<li><p>Magic</p></li>
-</ul>
+
+
+
+
+
     
 ### Feature description:
 
