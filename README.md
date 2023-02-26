@@ -37,7 +37,7 @@
 Main Branch:
 <li>(FINAL)_cancer_insurance_database.sql = Final Database sql file
 <li>(FINAL)_cancer_insurance_transformation_UP.ipynb = Jupyter notebook file containing dataset transformation
-<li>(FINAL)_cancer_insurance_update_UP.sql = SQL file containing dataset transformation
+<li>(FINAL)_cancer_insurance_update_UP.sql = SQL file containing dataset creation and data loading
 <li>CIDB_Visualization_GR.ipynb = Jupyter notebook file containing visualizations
 <li>README = file containing features, repository map, & Deploy/Monitor
 
