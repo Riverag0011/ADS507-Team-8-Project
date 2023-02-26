@@ -14,7 +14,11 @@ The README must include the following:
     How to deploy your pipeline.
     How to monitor your pipeline.
     
-Feature description:
+    
+    
+    
+### Feature description:
+
 age: patient age		
 air_polution: level of air pollution	
 alcohol_use: level of alcohol use	
@@ -41,4 +45,39 @@ snoring: level of snoring
 swallow_difficulty: level of swallow difficulty
 weight_lost: level of weight lost	
 wheezing: level of wheezing	
+
+
+
+
+### Repository Map 
+
+Main Branch:
+(FINAL)_cancer_insurance_database.sql = Final Database sql file
+(FINAL)_cancer_insurance_transformation_UP.ipynb = Jupyter notebook file containing dataset transformation
+(FINAL)_cancer_insurance_update_UP.sql = SQL file containing dataset transformation
+CIDB_Visualization_GR.ipynb = Jupyter notebook file containing visualizations
+README = file containing features, repository map, & Deploy/Monitor
+
+Folders:
+Analysis = folder contains metrics, statistics, and analysis of cancer insurance database
+CancerInsuranceDatabase = folder contains preliminary work on building the database
+Datasets = folder contains datasets files in CSV format and licenses
+
+
+
+
+
+### Deploy and Monitor
+
+Please deploy local sql database manually using the (FINAL)_cancer_insurance_database.sql file. 
+The same with the following output files:
+    CIBD_Exploratory_MN_by_ipynb.ipynb
+    CIDB_EPLORATORY_MN_by_SQL.sql
+    CIDB_Visualization_GR.ipynb
+
+
+
+
+
+
 
